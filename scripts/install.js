@@ -1,0 +1,23 @@
+#!/usr/bin/env node
+console.log('');
+console.log('====================================');
+console.log('  enterprise-skills v1.0.0');
+console.log('  30 enterprise & program skills');
+console.log('====================================');
+console.log('');
+console.log('✓ Installed!');
+console.log('');
+console.log('Core: astemo, astemo-design-system, astemo-xlsx,');
+console.log('  astemo-org-templates, astemo-template-fallback,');
+console.log('  astemo-directory, astemo-colleague-attunement');
+console.log('FH4S: fh4s-context, fh4s-honda-response, fh4s-smart-drawing,');
+console.log('  fh4s-drawing-check, fh4s-drawing-query, fh4s-sasg-forms,');
+console.log('  fh4s-mlc-pv-alignment, fh4s-smartsheet-sync, fh4s-meeting-prep');
+console.log('M365: astemo-chrome, astemo-chrome-bridge,');
+console.log('  microsoft-whiteboard-cli, teams-rich-compose');
+console.log('Artifacts: copilot-canvas-renderer, enterprise-artifact-generator,');
+console.log('  astemo-pipeline, astemo-ingest');
+console.log('Comms: outlook-draft-guardrails, sabarish-communication-style');
+console.log('');
+console.log('https://github.com/sduvvuru-qx/enterprise-skills');
+console.log('');

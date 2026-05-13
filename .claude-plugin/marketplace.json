@@ -1,0 +1,22 @@
+{
+  "name": "enterprise-skills",
+  "description": "30 agent skills for enterprise automation — Astemo, FH4S, M365, and cross-org workflows.",
+  "version": "1.0.0",
+  "skills": [
+    "./skills/astemo","./skills/astemo-design-system","./skills/astemo-xlsx",
+    "./skills/astemo-org-templates","./skills/astemo-template-fallback",
+    "./skills/astemo-directory","./skills/astemo-colleague-attunement",
+    "./skills/fh4s-context","./skills/fh4s-honda-response",
+    "./skills/fh4s-smart-drawing","./skills/fh4s-drawing-check",
+    "./skills/fh4s-drawing-query","./skills/fh4s-sasg-forms",
+    "./skills/fh4s-mlc-pv-alignment","./skills/fh4s-smartsheet-sync",
+    "./skills/fh4s-meeting-prep","./skills/astemo-chrome",
+    "./skills/astemo-chrome-bridge","./skills/microsoft-whiteboard-cli",
+    "./skills/teams-rich-compose","./skills/copilot-canvas-renderer",
+    "./skills/enterprise-artifact-generator","./skills/astemo-pipeline",
+    "./skills/astemo-ingest","./skills/outlook-draft-guardrails",
+    "./skills/sabarish-communication-style","./skills/plastic-injection-molding",
+    "./skills/org-naming-schema-implementer","./skills/reverse-github",
+    "./skills/astemo-change-point-update"
+  ]
+}

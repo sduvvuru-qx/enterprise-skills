@@ -1,0 +1,11 @@
+{
+  "name": "enterprise-skills",
+  "version": "1.0.0",
+  "description": "Agent skills for enterprise automation — Astemo workflows, FH4S program context, M365, and cross-org communication.",
+  "files": ["skills/", ".claude-plugin/", "guides/", "README.md"],
+  "scripts": { "postinstall": "node scripts/install.js" },
+  "keywords": ["agent-skills", "enterprise", "astemo", "fh4s", "m365", "craft-agent"],
+  "author": "sduvvuru-qx",
+  "license": "MIT",
+  "repository": { "type": "git", "url": "https://github.com/sduvvuru-qx/enterprise-skills.git" }
+}
